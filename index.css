@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+nav{
+    display: flex;
+}
+.form{
+    width: 50%;
+    padding-right: 100px;
+}
+.img{
+    width: 50%;
+}
+.p1{
+    
+    height: 700px;
+    width:650px;
+    border-radius: 15px;
+    border-top-left-radius: 15px;
+}
+.in{
+    width: 300px;
+    height:40px;
+}
+.inn{
+    width: 15px;
+    height: 15px;
+}
+.first{
+    text-align: center;
+}
+.log{
+    width:300px;
+    height:40px;
+    border-radius: 15px;
+    background-color: green;
+    color: white;
+    font-size: 1.1rem;
+}
